@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://patelsujal.in" target="_blank">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=ko-fi&label=&color=FF7F50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
