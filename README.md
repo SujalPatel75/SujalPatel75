@@ -2,7 +2,16 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalPatel75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalPatel75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/AdZkAyWcC9UAAAAC/itachi-itachi-uchiha.gif"  />
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -49,6 +58,8 @@
 
 ###
 
-<img align="right" height="136" src="https://media.tenor.com/AdZkAyWcC9UAAAAC/itachi-itachi-uchiha.gif"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SujalPatel75/SujalPatel75/output/snake.svg" alt="Snake animation" />
 
 ###
